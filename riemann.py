@@ -1,9 +1,9 @@
 "Code for calculating all the no trivial zeros of the Riemann Hypothesis"
 "Created by Jamell Samuels"
 def riemann(number = 20):
-    print('Be aware that zeros come in twos so for ' + str(number) + ' you have ' + str(number*2) + ' zeros.')
+    print("Hello and welcome to the riemann zeros calculator")
+    print('Be aware that zeros come in twos so for ' + str(number) + ' you have ' + str(2*(number +1)) + ' zeros.')
     number = number + 1
-    print("Hello")
     import math
     import pandas as pd
     import numpy as np
