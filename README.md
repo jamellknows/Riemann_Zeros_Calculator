@@ -1,5 +1,6 @@
 ## Created by Jamell Ivan Samuels
 # Riemann_Zeros_Calculator
+Read my research on https://www.researchgate.net/profile/Jamell-Samuels
 This program works in three stages. 
 1) Calculates the Riemann Zeta Function Non Trivial Zeros
 2) Writes the zeros to a file. 
